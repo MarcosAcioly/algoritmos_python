@@ -25,3 +25,41 @@ print()
 
 
 
+
+
+# Função para somar dois números
+def somar(a, b):
+    return a + b
+
+try:
+    # Recebendo entrada do usuário
+    num1 = float(input("Digite o primeiro número: "))
+    num2 = float(input("Digite o segundo número: "))
+
+    # Chamando a função e exibindo o resultado
+    resultado = somar(num1, num2)
+    print("A soma é:", resultado)
+
+except ValueError:
+    print("Erro: Por favor, insira números válidos.")
+
+
+    # Função para somar dois números
+    def somar(a, b):
+        return a + b
+
+
+    try:
+        # Recebendo entrada do usuário
+        num1 = float(input("Digite o primeiro número: "))
+        num2 = float(input("Digite o segundo número: "))
+
+        # Chamando a função e exibindo o resultado
+        resultado = somar(num1, num2)
+        print("A soma é:", resultado)
+
+    except ValueError:
+        print("Erro: Por favor, insira números válidos.")
+
+
+
