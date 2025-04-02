@@ -11,7 +11,9 @@ print()
 n4 = float(input("Por favor, digite a quarta nota: "))
 print()
 
-# Somando os números
+# Somando os números e dividindo
+
+
 resultado = (n1 + n2 + n3 + n4) / 4
 
 print()
@@ -20,3 +22,12 @@ print()
 print("A média das quantro notas bimestrais é: ", resultado)
 
 print()
+
+
+
+
+nota1 = 0
+nota1 = 0
+nota1 = 0
+nota1 = 0
+
