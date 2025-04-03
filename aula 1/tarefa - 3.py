@@ -1,3 +1,5 @@
+
+
 from gettext import lngettext
 
 # Recebendo entrada do usuário
@@ -19,8 +21,6 @@ print()
 print("A soma do número", n1, " + ", n2, "é: ", resultado)
 
 print()
-
-
 
 
 
