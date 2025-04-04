@@ -1,13 +1,13 @@
 # 10 – Faça um algoritmo que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit = F = (9/5) / C + 32.
 
 # Solicitando ao usuário a temperatura em graus Fahrenheit
+
 print()
 print()
 fahrenheit = float(input("Digite a temperatura em graus Celcius: "))
 print()
 
 # Convertendo para graus Celsius usando a fórmula
-
 
 farenheit = (9/5) / celsius + 32
 print()
