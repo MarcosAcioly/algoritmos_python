@@ -1,3 +1,5 @@
+#  9 – Faça um algoritmo que pela a temperatura em graus Farenheit, transforme e mostre a temperatura em graus Celsius. C = 5 * ((F-32)/9)
+
 # Solicitando ao usuário a temperatura em graus Fahrenheit
 print()
 print()

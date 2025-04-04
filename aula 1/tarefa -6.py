@@ -1,3 +1,5 @@
+#  6 – Faça um algoritmo que peça o raio de um círculo, calcule e mostre sua área.
+
 # Importar a biblioteca math para usar o valor de pi
 import math
 
