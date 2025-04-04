@@ -1,13 +1,18 @@
-from gettext import lngettext
+# 8 – Faça um algoritmo que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês.
+#     Calcule o total do seu salário no referido mês.
 
 # Recebendo entrada do usuário
 print()
+
 n1 = float(input("Por favor, digite a primeira nota: "))
 print()
+
 n2 = float(input("Por favor, digite a segunda nota: "))
 print()
+
 n3 = float(input("Por favor, digite a terceira nota: "))
 print()
+
 n4 = float(input("Por favor, digite a quarta nota: "))
 print()
 
