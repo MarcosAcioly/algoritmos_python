@@ -1,32 +1,24 @@
-# Faça um algoritmo que leia três números e mostre o maior deles.
+n1 = 0
+n2 = 0
+n3 = 0
+
+n1 = int(input("Digite o primeiro número: "))
+
+n2 = int(input("Digite o segundo número: "))
+
+n3 = int(input('Digite o terceiro número:  '))
 
 
-# Solicita dois números ao usuário
-print()
-numero1 = float(input("Digite o primeiro número: "))
-print()
-numero2 = float(input("Digite o segundo número: "))
-print()
-numero3 = flat(input('Digite o terceiro número:  '))
-
-print()
 
 # Verifica qual é o maior número ou se são iguais
-if numero1 > numero2 and numero 2 > numero3:
-    print(f"O maior número é: {numero1}")
+if (n1 == n2) and (n1 == n3):
+    print(f"Os números são iguais: ")
 
-    if numero2 > numero1 and numero3 < numero2:
-        print(f"O maior número é: {numero2}")
+elif (n1 > n2) and (n1 > n3):
+    print(n1, "O maior é o número")
 
-elif n
-
-
-if numero1 > numero2:
-    print(f"O maior número é: {numero1}")
-elif numero2 > numero1:
-    print(f"O maior número é: {numero2}")
-
-
+elif (n2 > n3):
+    print(n2, "O maior é o número")
 
 else:
-    print("Os números são iguais.")
+    print(n3, "O maior é o número")
