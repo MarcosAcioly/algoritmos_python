@@ -14,6 +14,14 @@ while True:
 
 
 
+# usuario = senha = ""
+
+while ( usuario == senha):
+    usuario = input("informe o usuario: ")
+    senha = input("informe a senha: ")
+    if (usuario == senha):
+        print ("Senha invalida")
+        print("A senha não pode ser igual ao nome do usuário.")
 
 
 
