@@ -24,6 +24,7 @@ while populacao_a < populacao_b:
 
     # Incrementa o contador de anos
     anos += 1
+    print("ano ", anos)
 
 # Exibe o resultado
 print(f"Serão necessários {anos} anos para que a população do país A iguale ou ultrapasse a população do país B.")
