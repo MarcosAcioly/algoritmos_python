@@ -10,7 +10,7 @@ class Quadrado:
         self.__tamanho_do_lado = tamanho_do_lado
 
     def mudar_tamanho_do_lado(self, novo_tamanho_do_lado):
-        self.__tamanho_do_lado = novo_tamanho_lado
+        self.__tamanho_do_lado = novo_tamanho_do_lado
 
     def exibir_tamanho_do_lado(self):
         return self.__tamanho_do_lado
