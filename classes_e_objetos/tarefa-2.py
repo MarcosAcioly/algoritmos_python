@@ -19,8 +19,8 @@ class Quadrado:
         return self.__tamanho_do_lado * self.__tamanho_do_lado
 
 
-cubo = Quadrado(3)
+cubo = Quadrado(9)
 print(cubo.exibir_area())
 
-cubo.mudar_tamanho_do_lado(5)
+cubo.mudar_tamanho_do_lado(6)
 print(cubo.exibir_area())
